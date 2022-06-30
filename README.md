@@ -54,6 +54,6 @@
 
 
 ## Translation(Eng >> Kor)
-- Books: <Extreme C>(2022), Hanbit Media
+- Books: <Extreme C(2022)>, Hanbit Media
  
 
