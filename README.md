@@ -13,7 +13,9 @@
 - ing...
 
 ### Private
-- ing...
+- [project realdew](https://github.com/highballl/realdew)
+  - Concept: Make Playlists Together
+  - Started at 2022/06/30/THU
 
 
 ## Skills
@@ -54,6 +56,6 @@
 
 
 ## Translation(Eng >> Kor)
-- Books: <Extreme C(2022)>, Hanbit Media
+- Books: <Extreme C>(2022), Hanbit Media
  
 
