@@ -1,4 +1,4 @@
-# prodrinkerr's highballl
+# highballl
 
 ## Blog
 - [Blog - highballl](https://highballl.oopy.io)
